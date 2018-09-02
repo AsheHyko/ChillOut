@@ -47,3 +47,4 @@ class ShardingMaster extends Collection {
 }
 
 new ShardingMaster();
+bot.login(process.env.token);
