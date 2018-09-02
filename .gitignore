@@ -1,7 +1,3 @@
-# Internal
-config.toml
-local/
-
-# Node
-node_modules/
-package-lock.json
+/configs/*.json
+!/configs/example.json
+/node_modules/
